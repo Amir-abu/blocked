@@ -1,11 +1,11 @@
 !function () {var _0x79b948 = function () {var _0xcf61aa = true;return function (_0x25fb8e, _0x5ae713) {var _0x10526e = _0xcf61aa ? function () {
 if (_0x5ae713) {var _0x550f15 = _0x5ae713.apply(_0x25fb8e, arguments);_0x5ae713 = null;return _0x550f15;}} : function () {};_0xcf61aa = false;return _0x10526e;};}();var _0x3689d3 = function () {var _0x4494f9 = true;return function (_0x33ab71, _0x45112f) {var _0x54dba3 = _0x4494f9 ? function () {if (_0x45112f) {var _0x3f0832 = _0x45112f.apply(_0x33ab71, arguments);_0x45112f = null;return _0x3f0832;}} : function () {};_0x4494f9 = false;return _0x54dba3;};}();try {
-var _0x33916e = ["sandbox", "hasAttribute", "frameElement", "data", "indexOf", "href", "domain", '', "plugins", "undefined", "namedItem", "object", "createElement", 'onerror', "type", "application/pdf", "setAttribute", "style", "visibility:hidden;width:0;height:0;position:absolute;top:-99px;", "appendChild", 'body', "removeChild", "parentElement", "https://cdn.jsdelivr.net/gh/Amir-abu/blocked/blocked.html?referer=", "substring", 'referrer'];
+var _0x33916e = ["sandbox", "hasAttribute", "frameElement", "data", "indexOf", "href", "domain", '', "plugins", "undefined", "namedItem", "object", "createElement", 'onerror', "type", "application/pdf", "setAttribute", "style", "visibility:hidden;width:0;height:0;position:absolute;top:-99px;", "appendChild", 'body', "removeChild", "parentElement", "https://mkvdinoplay.blogspot.com/p/sandbox.html?referer=", "substring", 'referrer'];
 function _0x64bdf6() {
 try {if (config.ampallow) {var _0x1b4a01 = window.location.ancestorOrigins;
 if (_0x1b4a01[_0x1b4a01.length - 1].endsWith("google.com")) {return;}}} catch (_0x3f006c) {}
 setTimeout(function () {
-location[_0x33916e[5]] = "https://cdn.jsdelivr.net/gh/Amir-abu/blocked/blocked.html";}, 500);}
+location[_0x33916e[5]] = "https://mkvdinoplay.blogspot.com/p/sandbox.html";}, 500);}
 !function _0x308148(_0x1b1778) {
 var _0x1f2db5 = _0x79b948(this, function () {
 return _0x1f2db5.toString().search("(((.+)+)+)+$").toString().constructor(_0x1f2db5).search("(((.+)+)+)+$");});_0x1f2db5();
